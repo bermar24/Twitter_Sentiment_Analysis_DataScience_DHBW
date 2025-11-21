@@ -63,7 +63,7 @@ from tensorflow.keras.utils import to_categorical
 
 # Set variables
 DATA_PATH = 'twitter_data.csv'
-SAMPLE_SIZE = 2000 # Set to an integer for sampling, or None for full dataset
+SAMPLE_SIZE = 25000 # Set to an integer for sampling, or None for full dataset
 
 # Set style and warnings
 warnings.filterwarnings('ignore')
