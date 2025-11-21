@@ -1,0 +1,10 @@
+Feature Type,Model,Accuracy,F1-Macro,Precision,Recall
+Neural Network,CNN-LSTM,0.5700,0.5660,0.5703,0.5706
+TF-IDF,LogisticRegression,0.5600,0.5583,0.5592,0.5600
+Word2Vec,LogisticRegression,0.5250,0.5118,0.5428,0.5255
+TF-IDF,VotingClassifier,0.5150,0.4993,0.5407,0.5142
+TF-IDF,DecisionTree,0.4600,0.4521,0.4644,0.4600
+Word2Vec,KNN,0.4100,0.4144,0.4407,0.4104
+Word2Vec,VotingClassifier,0.4100,0.4063,0.4044,0.4097
+Word2Vec,DecisionTree,0.4000,0.3949,0.3956,0.3997
+TF-IDF,KNN,0.3850,0.2799,0.6151,0.3836

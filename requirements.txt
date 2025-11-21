@@ -1,0 +1,24 @@
+# Twitter Sentiment Analysis Requirements
+# Python 3.8+
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Text Processing
+nltk>=3.8.0
+gensim>=4.3.0
+
+# Machine Learning - Classical
+scikit-learn>=1.2.0
+
+# Deep Learning
+#tensorflow>=2.12.0
+tensorflow-cpu>=2.12.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Utilities
+argparse>=1.4.0
